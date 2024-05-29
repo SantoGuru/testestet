@@ -1,0 +1,17 @@
+// Template de Comando Simples
+
+const Discord = require("discord.js") // require da biblioteca do discord.js
+const config = require("../../config/config.json") //require do local das configurações
+
+module.exports = {
+   // name:"", // Especificar nome do comando
+   // description:"", // Especificar a descrição do comando
+   // type: Discord.ApplicationCommandType.ChatInput, // Especificar o tipo de comando
+   // run: async(client,interaction)=>{ 
+        // "run" é o metodo que inicia o comando propriamente dito
+        // "client" se refere ao bot
+        // "interaction" se refere a interação que gerou o run
+
+        // Necessário ver a biblioteca para verificar as opções que podem ser utilizadas
+  //  },
+}
